@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
 gem 'selenium-webdriver'
-gem 'parallel' #マルチスレッドorマルチプロセス
-gem 'pry' # デバッグ
+gem 'parallel'
+gem 'pry'
